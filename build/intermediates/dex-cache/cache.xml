@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/liukun/source/Android-Blog-Source/SortListViewDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/liukun/source/Android-Blog-Source/SortListViewDemo/app/build/intermediates/pre-dexed/debug/classes-a24dba971a49232d7850ef6ba783384918269b48.jar" />
+    </item>
+    <item
+        jar="/Users/liukun/source/SortListViewDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/liukun/source/SortListViewDemo/app/build/intermediates/pre-dexed/debug/classes-9e089d83da767853b8f49ab872fa2cd2a3006bf4.jar" />
+    </item>
+    <item
+        jar="/Users/liukun/source/Android-Blog-Source/SortListViewDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/liukun/source/Android-Blog-Source/SortListViewDemo/app/build/intermediates/pre-dexed/debug/classes-11d1f6e2b19f7e7747523faae66c472fd090e740.jar" />
+    </item>
+    <item
+        jar="/Users/liukun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/liukun/source/Android-Blog-Source/SortListViewDemo/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-6fa541c4ab1ae03c91d7cd0bb69bd07c013c4556.jar" />
+    </item>
+    <item
+        jar="/Users/liukun/source/Android-Blog-Source/SortListViewDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/liukun/source/Android-Blog-Source/SortListViewDemo/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-0bb481bbd9d073c4947af843f3a9a149243a72ca.jar" />
+    </item>
+    <item
+        jar="/Users/liukun/source/SortListViewDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/liukun/source/SortListViewDemo/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-9474ddcf67a6cc5b5dee3ef2becdc796abacbc20.jar" />
+    </item>
+    <item
+        jar="/Users/liukun/source/SortListViewDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/liukun/source/SortListViewDemo/app/build/intermediates/pre-dexed/debug/classes-7f5892e5d0d6ee625358ec1ebceb4b503123e5a4.jar" />
+    </item>
+
+</items>
